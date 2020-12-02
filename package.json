@@ -1,0 +1,16 @@
+{
+  "name": "moving-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "pulp build -O --to dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
